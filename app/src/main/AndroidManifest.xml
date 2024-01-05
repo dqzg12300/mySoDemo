@@ -15,9 +15,9 @@
         <meta-data
             android:name="kdesc"
             android:value="模块样例" />
-        <!--        <meta-data-->
-        <!--            android:name="kclass"-->
-        <!--            android:value="com.example.mikrommodule.devModule" />-->
+        <meta-data
+            android:name="kclass"
+            android:value="com.example.mydemo.myModule" />
         <meta-data
             android:name="ksoname"
             android:value="libdobby.so;libmysodemo.so" />
